@@ -1,7 +1,7 @@
 # Cinemate_app
 A Movie Database Website which shows top rated, upcoming, popular movies with a real API call from TMDB.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
