@@ -28,8 +28,9 @@ To get this project up and running on your local machine, follow these steps:
    
 ## Screenshots
 
-![image](https://github.com/dhanyathashalmali/disney-clone/assets/73874127/076e43d9-529b-4b76-b5bd-727c7b0870f4)
-![image](https://github.com/dhanyathashalmali/disney-clone/assets/73874127/e9df9150-82b9-436d-8c93-747cc142ca7c)
+![image](https://github.com/dhanyathashalmali/Cinemate_app/assets/73874127/ca54b071-a0d2-44a7-94d7-b1869369dcc9)
+![image](https://github.com/dhanyathashalmali/Cinemate_app/assets/73874127/bb6aeea8-02d2-4d78-a8c2-b67da9de99c4)
+![image](https://github.com/dhanyathashalmali/Cinemate_app/assets/73874127/862b4dd1-4c31-46a4-bad7-8d9248cf3da1)
 
 ## Contributions
 
